@@ -1,0 +1,34 @@
+# Dominios HBO Max / Max
+hbomax.com
+hbo.com
+max.com
+
+# Dominios Paramount+
+paramountplus.com
+cbs.com
+cbsi.com
+
+# Dominios Netflix
+netflix.com
+netflix.net
+netflixstudios.com
+
+# Dominios Amazon Prime Video
+primevideo.com
+amazonvideo.com
+amazon.com
+
+# Rangos de IP HBO Max / Max (ejemplares)
+185.60.68.0/22  # HBO Holding sample range  [oai_citation:0‡Netify](https://www.netify.ai/resources/applications/hbo?utm_source=chatgpt.com)
+185.139.216.0/23  # HBO Holding sample range  [oai_citation:1‡Netify](https://www.netify.ai/resources/applications/hbo?utm_source=chatgpt.com)
+
+# Rangos de IP Paramount+ (ejemplares)
+(Nota: no se encontraron rangos específicos públicos fácilmente verificables)  [oai_citation:2‡Netify](https://www.netify.ai/resources/applications/paramount-plus?utm_source=chatgpt.com)
+
+# Rangos de IP Netflix (ejemplares)
+108.175.32.0/20  # Netflix Inc. sample  [oai_citation:3‡IPinfo](https://ipinfo.io/AS2906?utm_source=chatgpt.com)
+185.2.220.0/22  # Netflix Inc. sample  [oai_citation:4‡Gist](https://gist.github.com/10h30/53d4f9ceed315683752e1bd7c2b44569?utm_source=chatgpt.com)
+
+# Rangos de IP Amazon Prime Video / Amazon Video (ejemplares)
+63.176.0.0/12  # Amazon.com, Inc. block  [oai_citation:5‡IPinfo](https://ipinfo.io/AS16509?utm_source=chatgpt.com)
+52.192.0.0/12  # Amazon Technologies Inc. block  [oai_citation:6‡IPinfo](https://ipinfo.io/AS16509?utm_source=chatgpt.com)
