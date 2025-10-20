@@ -8,12 +8,14 @@ nflximg.net
 nflxso.net
 nflximg.com
 fastly.net
-nflximg.net
-nflxvideo.net
 108.175.32.0/20
 185.2.220.0/22
 52.4.0.0/14
 52.36.0.0/14
+52.94.0.0/15
+52.196.0.0/15
+13.32.0.0/15
+13.54.0.0/16
 
 # ===========================
 # HBO Max / Max
@@ -28,6 +30,8 @@ hbonow.com
 185.139.216.0/23
 104.84.0.0/14
 23.111.0.0/16
+52.222.0.0/15
+52.224.0.0/14
 
 # ===========================
 # Paramount+
@@ -38,7 +42,8 @@ cbsi.com
 cbsinteractive.com
 cbsnews.com
 cbsallaccess.com
-# No hay rangos públicos confiables, se recomienda usar solo dominios
+185.33.196.0/22
+52.216.0.0/14
 
 # ===========================
 # Amazon Prime Video
@@ -53,6 +58,8 @@ akamaized.net
 52.192.0.0/12
 52.94.0.0/15
 205.251.192.0/19
+13.32.0.0/15
+13.54.0.0/16
 
 # ===========================
 # Disney+
@@ -63,3 +70,7 @@ disneyplus.com.edgekey.net
 dssott.com
 akamaized.net
 akamaitechnologies.com
+23.62.0.0/16
+52.222.128.0/17
+52.224.0.0/14
+13.54.0.0/16
