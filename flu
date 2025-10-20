@@ -1,32 +1,55 @@
+# ===========================
 # Netflix
+# ===========================
 netflix.com
 nflxvideo.net
 nflxext.com
 nflximg.net
 nflxso.net
+nflximg.com
+fastly.net
+nflximg.net
+nflxvideo.net
 108.175.32.0/20
 185.2.220.0/22
+52.4.0.0/14
+52.36.0.0/14
 
+# ===========================
 # HBO Max / Max
+# ===========================
 hbomax.com
 hbo.com
 max.com
 hbogo.com
 hbogoasia.com
+hbonow.com
 185.60.68.0/22
 185.139.216.0/23
+104.84.0.0/14
+23.111.0.0/16
 
+# ===========================
 # Paramount+
+# ===========================
 paramountplus.com
 cbs.com
 cbsi.com
+cbsinteractive.com
+cbsnews.com
+cbsallaccess.com
 # No hay rangos públicos confiables, se recomienda usar solo dominios
 
+# ===========================
 # Amazon Prime Video
+# ===========================
 primevideo.com
 amazonvideo.com
 amazon.com
 cloudfront.net
-akamaihd.net
+akamaitechnologies.com
+akamaized.net
 63.176.0.0/12
 52.192.0.0/12
+52.94.0.0/15
+205.251.192.0/19
